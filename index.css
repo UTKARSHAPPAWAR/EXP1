@@ -47,11 +47,11 @@
 }
 
 .controls .teal {
-  background: #005755;
+  background: #dc143c;
 }
 
 .controls .teal:hover {
-  background: #006664;
+  background: #ea1f48;
 }
 
 @media screen and (max-width: 768px) {
